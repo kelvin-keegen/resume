@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name":"Kelvin Njenga",
+    "description":"I am a Software engineer and I use Java and the Spring Framework to develop production ready applications. I have defined much more down below of my abilities and skills with an aspiration of working together really soon on some cool projects",
+    "image":"profile_pic.jpg",
+    "bio":"My name is Kelvin Njenga, a Software Developer by profession. Throughout my Software development journey I have gained commendable experience in Application software development and EMV payments Software development.",
+    "contactmessage":"My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
+    "email": "kelvinkeegen17@gmail.com",
+    "phone": "+254700322065",
+    "github":"https://github.com/kelvin-keegen",
+    "project":"https://stackoverflow.com/story/keeganapps",
+    "address":{
+      "street":"Fedha Estate",
+      "city":"Nairobi",
+      "state":"Kenya",
+      "zip": "00100"
+    },
+    "website": "https://stackoverflow.com/story/keeganapps",
+    "resumedownload":"https://drive.google.com/file/d/15QzkjlxqHV4TEH42oLBazt24ttfkY0ai/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kelvin-njenga-410264113",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kelvin-keegen",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/kelvinkeiran",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am vastly knowledable in the most commonly used frameworks and technologies as detailed in my resume. Below is a breif skills gauge of my comfortability using common development tools and frameworks.",
+    "education":[
+      {
+        "school":"Zetech University",
+        "degree":"Information Technology",
+        "graduated":"Novermber 2017",
+        "description":"I mostly majored on software development and i developed a full fledged android application for my school project."
+      },
+      {
+        "school":"Strathmore University",
+        "degree":"ELN001 - ReadytoWork",
+        "graduated":"August 2017",
+        "description":"Gained professional skills to apply in an actual work enviroment aside from academic skills  ."
+      }
+    ],
+    "work":[
+      {
+        "company":"Data Integrated Ltd",
+        "title":"Software Engineer",
+        "years":"May 2019 - Present",
+        "description":"Currently at DIL I'm a software engineer using C and JAVA programming languages to mainly develop EMV Level 3 certified Point of Sale applications. I also use JAVA and the spring boot framework to develop internal REST-APIs for POS devices. In the year 2020 at data integrated, I was taking lead in development for VISA Device acceptance certification. This was for ADVT and CDET retail and transit device certification. I successfully passed all test cases and the POS devices were determined to be VISA EMV Level 3 certified for retail and transit."
+      },
+      {
+        "company":"Rubis Energy Kenya",
+        "title":"Software Developer",
+        "years":"March 2018 - April 2019",
+        "description":"Launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
+      },
+      {
+        "company":"Vortex Solutions",
+        "title":"Android Developer",
+        "years":"July 2017 - November 2017",
+        "description":"Worked at Vortex Solution as an android developer using JAVA 8 as part of my career development program. I was part of a team that developed an inventory management application."
+      }
+      ,{
+        "company":"Personal Projects",
+        "title":"Software Developer",
+        "years":"Jan 2016 - present",
+        "description":"I personally have an active repository to personal projects some private and others are public. I also contribute to open source projects whenever possible."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"90%"
+      },
+      {
+        "name":"Spring Framework",
+        "level":"92%"
+      },
+      {
+        "name":"Android Development",
+        "level":"76%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"C",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
