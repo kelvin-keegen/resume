@@ -74,15 +74,21 @@ class Header extends Component {
                   <i className="fa fa-github"></i>Github
                 </a>
               </ul>
+              
+              <a className="smoothscroll" href="#about">
+                <i className="icon-down-open"></i>
+                </a>
+                
             </Fade>
           </div>
         </div>
 
-        <p className="scrolldown">
+        {/* <p className="scrolldown">
           <a className="smoothscroll" href="#about">
             <i className="icon-down-circle"></i>
           </a>
-        </p>
+        </p> */}
+
       </header>
     );
   }

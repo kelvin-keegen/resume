@@ -58,6 +58,12 @@ class About extends Component {
               </div>
             </div>
           </div>
+
+          <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+              <a className="smoothscroll" href="#resume">
+                <i className="icon-down-open"></i>
+                </a>
+                </div>
         </Fade>
       </section>
     );
