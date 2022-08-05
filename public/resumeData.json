@@ -1,38 +1,38 @@
 {
   "main": {
-    "name":"Kelvin Njenga",
-    "description":"I am a Software engineer and I use Java and the Spring Framework to develop production ready applications. I have defined much more down below of my abilities and skills with an aspiration of working together really soon on some cool projects",
-    "image":"profile_pic.jpg",
-    "bio":"My name is Kelvin Njenga, a Software Developer by profession. Throughout my Software development journey I have gained commendable experience in Application software development and EMV payments Software development.",
-    "contactmessage":"My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
+    "name": "Kelvin Njenga",
+    "description": "I am a Software engineer and I use Java and the Spring Framework to develop production ready applications. I have defined much more down below of my abilities and skills with an aspiration of working together really soon on some cool projects",
+    "image": "kelvin3.jpg",
+    "bio": "My name is Kelvin Njenga, a Software Developer by profession. Throughout my Software development journey I have gained commendable experience in JAVA Web Application development and EMV payments Application development.",
+    "contactmessage": "My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
     "email": "kelvinkeegen17@gmail.com",
-    "phone": "+254700322065",
-    "github":"https://github.com/kelvin-keegen",
-    "project":"https://stackoverflow.com/story/keeganapps",
-    "address":{
-      "street":"Fedha Estate",
-      "city":"Nairobi",
-      "state":"Kenya",
-      "zip": "00100"
+    "phone": "+351 913 904 321",
+    "github": "https://github.com/kelvin-keegen",
+    "project": "https://stackoverflow.com/users/6762509/kelvin-njenga",
+    "address": {
+      "street": "Rua Claudio Nunes 112",
+      "city": "Lisbon",
+      "state": "Portugal",
+      "zip": "1500-056 Lisboa"
     },
     "website": "https://stackoverflow.com/story/keeganapps",
-    "resumedownload":"https://drive.google.com/file/d/18uT--mzws2Vxz0uPKGds9KyKB1wdw19F/view?usp=sharing",
-    "social":[
-      
+    "resumedownload": "https://drive.google.com/file/d/1HWcy0TRCxXxgcglk-x4TDsOyXqZoof-D/view?usp=sharing",
+    "social": [
+
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/kelvin-njenga-410264113",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kelvin-njenga-410264113",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/kelvin-keegen",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/kelvin-keegen",
+        "className": "fa fa-github"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/kelvinkeiran",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/kelvinkeiran",
+        "className": "fa fa-twitter"
       }
     ]
   },
@@ -52,30 +52,45 @@
         "description":"Gained professional skills to apply in an actual work enviroment aside from academic skills  ."
       }
     ],
-    "work":[
+    "work": [
+
       {
-        "company":"Data Integrated Ltd",
-        "title":"Software Engineer",
-        "years":"May 2019 - Present",
-        "description":"Currently at DIL I'm a software engineer using C and JAVA programming languages to mainly develop EMV Level 3 certified Point of Sale applications. I also use JAVA and the spring boot framework to develop internal REST-APIs for POS devices. In the year 2020 at data integrated, I was taking lead in development for VISA Device acceptance certification. This was for ADVT and CDET retail and transit device certification. I successfully passed all test cases and the POS devices were determined to be VISA EMV Level 3 certified for retail and transit."
+        "company": "KLx-Caceis(Credit Agricole Group)",
+        "title": "Software Developer",
+        "years": "August 2022 - Present",
+        "description": "Using JAVA, the Palmyra Framework and Java related dev-tools for middleware software solutions development. Software solutions are provided for KLx to Caceis of the (Credit Agricole Group)"
+
       },
       {
-        "company":"Rubis Energy Kenya",
-        "title":"Software Developer",
-        "years":"March 2018 - April 2019",
-        "description":"Launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
+        "company": "MoOngy-Team.IT",
+        "title": "JAVA Software Developer",
+        "years": "July 2022 - Present",
+        "description": "Providing JAVA software developer consultancy service for Team-IT of the (MoOngy group) at KLx(Subsidiary of Credit Agricole Group)"
+
       },
       {
-        "company":"Vortex Solutions",
-        "title":"Android Developer",
-        "years":"July 2017 - November 2017",
-        "description":"Worked at Vortex Solution as an android developer using JAVA 8 as part of my career development program. I was part of a team that developed an inventory management application."
-      }
-      ,{
-        "company":"Personal Projects",
-        "title":"Software Developer",
-        "years":"Jan 2016 - present",
-        "description":"I personally have an active repository to personal projects some private and others are public. I also contribute to open source projects whenever possible."
+        "company": "Data Integrated Ltd",
+        "title": "Software Engineer",
+        "years": "May 2019 - May 2022",
+        "description": " At DIL I was a software engineer using C and JAVA programming languages to mainly develop EMV Level 3 certified Point of Sale applications. I also used JAVA and the spring boot framework to develop internal REST-APIs. Other responsibilities involved developing and testing Point of Sale applications inline with EMVco compliance and PCI-DSS standards"
+      },
+      {
+        "company": "Rubis Energy Kenya",
+        "title": "Software Developer",
+        "years": "March 2018 - April 2019",
+        "description": "Launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
+      },
+      {
+        "company": "Vortex Solutions",
+        "title": "Android Developer",
+        "years": "July 2017 - November 2017",
+        "description": "Worked at Vortex Solution as an android developer using JAVA 8 as part of my career development program. I was part of a team that developed an inventory management application."
+      },
+      {
+        "company": "Personal Projects",
+        "title": "Software Developer",
+        "years": "Jan 2016 - present",
+        "description": "I personally have an active repository to personal projects some private and others are public. I also contribute to open source projects whenever possible."
       }
     ],
     "skills":[
@@ -97,7 +112,7 @@
       },
       {
         "name":"CSS",
-        "level":"65%"
+        "level":"45%"
       },
       {
         "name":"C",
