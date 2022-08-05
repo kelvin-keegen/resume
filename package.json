@@ -1,6 +1,6 @@
 {
-  "homepage": "./",
   "name": "resume",
+  "homepage": "https://kelvin-keegen.github.io/resume/",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
