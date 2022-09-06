@@ -1,22 +1,15 @@
 {
-  "files": {
-    "main.css": "/resume/static/css/main.bab0b925.chunk.css",
-    "main.js": "/resume/static/js/main.d90cb6ae.chunk.js",
-    "main.js.map": "/resume/static/js/main.d90cb6ae.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.844834c5.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.844834c5.js.map",
-    "static/js/2.16b377aa.chunk.js": "/resume/static/js/2.16b377aa.chunk.js",
-    "static/js/2.16b377aa.chunk.js.map": "/resume/static/js/2.16b377aa.chunk.js.map",
-    "static/js/3.83909b71.chunk.js": "/resume/static/js/3.83909b71.chunk.js",
-    "static/js/3.83909b71.chunk.js.map": "/resume/static/js/3.83909b71.chunk.js.map",
-    "index.html": "/resume/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/resume/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.16b377aa.chunk.js.LICENSE.txt": "/resume/static/js/2.16b377aa.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.844834c5.js",
-    "static/js/2.16b377aa.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.d90cb6ae.chunk.js"
-  ]
+  "main.css": "/resume/static/css/main.cb35f215.chunk.css",
+  "main.js": "/resume/static/js/main.29c0ba4c.chunk.js",
+  "main.js.map": "/resume/static/js/main.29c0ba4c.chunk.js.map",
+  "static/js/1.5154ca97.chunk.js": "/resume/static/js/1.5154ca97.chunk.js",
+  "static/js/1.5154ca97.chunk.js.map": "/resume/static/js/1.5154ca97.chunk.js.map",
+  "static/js/2.089974fd.chunk.js": "/resume/static/js/2.089974fd.chunk.js",
+  "static/js/2.089974fd.chunk.js.map": "/resume/static/js/2.089974fd.chunk.js.map",
+  "runtime~main.js": "/resume/static/js/runtime~main.62c5afb0.js",
+  "runtime~main.js.map": "/resume/static/js/runtime~main.62c5afb0.js.map",
+  "static/css/main.cb35f215.chunk.css.map": "/resume/static/css/main.cb35f215.chunk.css.map",
+  "index.html": "/resume/index.html",
+  "precache-manifest.845fc6fb5a738433fc3284cd222094c8.js": "/resume/precache-manifest.845fc6fb5a738433fc3284cd222094c8.js",
+  "service-worker.js": "/resume/service-worker.js"
 }
