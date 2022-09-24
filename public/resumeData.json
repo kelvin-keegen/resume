@@ -2,10 +2,10 @@
   "main": {
     "name": "Kelvin Njenga",
     "alias": "Hi there :)",
-    "description": "My name is Kelvin Njenga and I would like to thank you for visiting my digital resume :) . Allow me begin with a brief introduction, Currently I hold a title of Software developer, I use JAVA and the SpringBoot Framework to develop JAVA based back-end server applications. I invite you to take a look at some of my listed previous projects and used tech-stacks, Looking forward to getting connected and working together on some cool projects",
+    "description": "I would like to thank you for visiting my digital resume :) allow me to begin with a brief introduction. My name is Kelvin Njenga and I am a Software developer. I use JAVA and the SpringBoot framework to develop JAVA-based back-end server applications. I invite you to take a look at some of my listed previous projects and used tech-stacks. I look forward to getting connected and working together on some cool projects",
     "image": "kelvin3.jpg",
     "bio": "An Info worth mentioning is that for the most part of my Software development journey I have worked in the Financial Technology Industry. This also allowed me to be exposed in the EMV(EuroPay, MasterCard & VISA) payments Application development space. Primarily, EMV Level 3 device testing and compliance while using approved toolkits from VISA and MasterCard.",
-    "contactmessage": "My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
+    "contactmessage": "My phone and email address are always open for communication. I sincerely look forward to hearing from you soon.",
     "email": "kelvinkeegen17@gmail.com",
     "phone": "+351 913 904 321",
     "github": "https://github.com/kelvin-keegen",
@@ -37,20 +37,20 @@
       }
     ]
   },
-  "resume":{
-    "skillmessage":"I am vastly knowledable in the most commonly used frameworks and technologies as detailed in my resume. Below is a breif skills gauge of my comfortability using common development tools and frameworks.",
-    "education":[
+  "resume": {
+    "skillmessage": "I am vastly knowledgable in the most commonly used frameworks and technologies as detailed in my resume. Below is a brief skills gauge of my comfortability using common development tools and frameworks.",
+    "education": [
       {
         "school": "Zetech University",
         "degree": "Information Technology",
         "graduated": "Novermber 2017",
-        "description": "I mostly majored on software development within the IT faculty. Object oriented programming was always among my best unit subjects and i ended up interestingly using JAVA to develop an android application for my school project. This was quite an interesting experience(really hard :D) for a first-timer."
+        "description": "I mostly majored in software development within the IT faculty. Object-oriented programming was among my best unit subjects and i ended up interestingly using JAVA to develop an android application for my school project. This was quite an interesting experience (really hard :D) for a first-timer."
       },
       {
-        "school":"Strathmore University",
-        "degree":"ELN001 - ReadytoWork",
-        "graduated":"December 2017",
-        "description":" At strathmore I gained some professional skills to apply in an actual work enviroment, well this was aside from academic skills. Generally, the course constituted of implemetation of solid work ethics, protocol observation and some leadrship skills. :)"
+        "school": "Strathmore University",
+        "degree": "ELN001 - ReadytoWork",
+        "graduated": "December 2017",
+        "description": " At strathmore I gained some professional skills to apply in an actual work environment. Generally, the course incorporated implementation of solid work ethics, protocol observation, priority task management and essential leadership skills. :)"
       }
     ],
     "work": [
@@ -59,27 +59,27 @@
         "company": "KLx-Caceis(Credit Agricole Group)",
         "title": "Software Developer",
         "years": "August 2022 - Present",
-        "description": "At KLx I use JAVA, the Palmyra Framework and other Java related dev-tools for middleware software solutions development. Software solutions are provided for KLx to Caceis of the (Credit Agricole Group)"
+        "description": "At KLx I use JAVA, the Palmyra Framework and other Java related dev-tools for middleware software solutions development. Software solutions are provided for KLx to Caceis of the (Credit Agricole Group)."
 
       },
       {
         "company": "MoOngy-Team.IT",
         "title": "JAVA Software Developer",
         "years": "July 2022 - Present",
-        "description": "Providing JAVA software developer consultancy service for Team-IT of the (MoOngy group) at KLx(Subsidiary of Credit Agricole Group)"
+        "description": "Providing JAVA software developer consultancy service for Team-IT of the (MoOngy group) at KLx (Subsidiary of Credit Agricole Group)."
 
       },
       {
         "company": "Data Integrated Ltd",
         "title": "Software Engineer",
         "years": "May 2019 - May 2022",
-        "description": " At DIL I was a software engineer using C and JAVA programming languages to mainly develop EMV Level 3 certified Point of Sale applications. I also used JAVA and the spring boot framework to develop internal REST-APIs. Other responsibilities involved developing and testing Point of Sale applications inline with EMVco compliance and PCI-DSS standards"
+        "description": "At DIL I was a software engineer using C and JAVA programming languages to mainly develop EMV Level 3 certified Point of Sale applications. I also used JAVA and the springboot framework to develop internal REST-APIs. Other responsibilities involved developing and testing Point of Sale applications inline with EMVco compliance and PCI-DSS standards."
       },
       {
         "company": "Rubis Energy Kenya",
         "title": "Software Developer",
         "years": "March 2018 - April 2019",
-        "description": "Working at RUBis was among the interesting projects i have worked on here we launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
+        "description": "Working at RUBis was among the interesting projects I worked on at RUBiS; we launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
       },
       {
         "company": "Vortex Solutions",
@@ -91,37 +91,37 @@
         "company": "Personal Projects",
         "title": "Software Developer",
         "years": "Jan 2016 - present",
-        "description": "Personal projects are very rewarding and i am pleased to have a couple of personal repositories that are active and some still in development. Sometimes, I also contribute to open source projects whenever possible with the initiative and hope of keeping Open souce projects alive and well. :)"
+        "description": "Personal projects are very rewarding and I am pleased to have a couple of personal repositories that are active and some still in development. Sometimes, I also contribute to open source projects whenever possible with the initiative and hope of keeping Open souce projects alive and well. :)"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"JAVA",
-        "level":"90%"
+        "name": "JAVA",
+        "level": "90%"
       },
       {
-        "name":"SpringBoot Framework",
-        "level":"92%"
+        "name": "SpringBoot Framework",
+        "level": "92%"
       },
       {
-        "name":"Vaadin Framework",
-        "level":"76%"
+        "name": "Vaadin Framework",
+        "level": "76%"
       },
       {
-        "name":"Relational Databases",
-        "level":"65%"
+        "name": "SQL Databases",
+        "level": "65%"
       },
       {
-        "name":"ReactJS",
-        "level":"45%"
+        "name": "ReactJS",
+        "level": "45%"
       },
       {
-        "name":"C++",
-        "level":"40%"
+        "name": "C++",
+        "level": "40%"
       },
       {
-        "name":"C",
-        "level":"40%"
+        "name": "C",
+        "level": "40%"
       }
     ]
   },
