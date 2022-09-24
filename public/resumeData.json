@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Kelvin Njenga",
-    "description": "I am a Software engineer and I use Java and the Spring Framework to develop production ready applications. I have defined much more down below of my abilities and skills with an aspiration of working together really soon on some cool projects",
+    "description": "My name is Kelvin Njenga and I would like to thank you for visiting my digital resume :) . Allow me begin with a brief introduction, Currently I hold a title of Software developer, I use JAVA and the Spring Framework to develop JAVA based back-end server applications. I invite you to take a look at some of my listed previous projects and used tech-stacks, Looking forward to getting connected and working together on some cool projects.",
     "image": "kelvin3.jpg",
-    "bio": "My name is Kelvin Njenga, a Software Developer by profession. Throughout my Software development journey I have gained commendable experience in JAVA Web Application development and EMV payments Application development.",
+    "bio": "An Info worth mentioning is that for the most part of my Software development journey I have worked in the Financial Technology Industry. This also allowed me to be exposed in the EMV(EuroPay, MasterCard & VISA) payments Application development space. Primarily, EMV Level 3 device testing and compliance while using approved toolkits from VISA and MasterCard.",
     "contactmessage": "My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
     "email": "kelvinkeegen17@gmail.com",
     "phone": "+351 913 904 321",
@@ -40,16 +40,16 @@
     "skillmessage":"I am vastly knowledable in the most commonly used frameworks and technologies as detailed in my resume. Below is a breif skills gauge of my comfortability using common development tools and frameworks.",
     "education":[
       {
-        "school":"Zetech University",
-        "degree":"Information Technology",
-        "graduated":"Novermber 2017",
-        "description":"I mostly majored on software development within the IT faculty and i developed a full fledged android application for my school project."
+        "school": "Zetech University",
+        "degree": "Information Technology",
+        "graduated": "Novermber 2017",
+        "description": "I mostly majored on software development within the IT faculty. Object oriented programming was always among my best unit subjects and i ended up interestingly using JAVA to develop an android application for my school project. This was quite an interesting experience(really hard :D) for a first-timer."
       },
       {
         "school":"Strathmore University",
         "degree":"ELN001 - ReadytoWork",
         "graduated":"December 2017",
-        "description":"Gained professional skills to apply in an actual work enviroment aside from academic skills  ."
+        "description":" At strathmore I gained some professional skills to apply in an actual work enviroment, well this was aside from academic skills. Generally, the course constituted of implemetation of solid work ethics, protocol observation and some leadrship skills. :)"
       }
     ],
     "work": [
@@ -58,7 +58,7 @@
         "company": "KLx-Caceis(Credit Agricole Group)",
         "title": "Software Developer",
         "years": "August 2022 - Present",
-        "description": "Using JAVA, the Palmyra Framework and Java related dev-tools for middleware software solutions development. Software solutions are provided for KLx to Caceis of the (Credit Agricole Group)"
+        "description": "At KLx I use JAVA, the Palmyra Framework and other Java related dev-tools for middleware software solutions development. Software solutions are provided for KLx to Caceis of the (Credit Agricole Group)"
 
       },
       {
@@ -78,7 +78,7 @@
         "company": "Rubis Energy Kenya",
         "title": "Software Developer",
         "years": "March 2018 - April 2019",
-        "description": "Launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
+        "description": "Working at RUBis was among the interesting projects i have worked on here we launched and produced K-wallet, a product that served as a payment wallet for fuel and lubricant payments used by RUBIS energy (KenolKobil) customers. I was the senior POS application developer responsible for implementations of Smart POS device features."
       },
       {
         "company": "Vortex Solutions",
@@ -90,7 +90,7 @@
         "company": "Personal Projects",
         "title": "Software Developer",
         "years": "Jan 2016 - present",
-        "description": "I personally have an active repository to personal projects some private and others are public. I also contribute to open source projects whenever possible."
+        "description": "Personal projects are very rewarding and i am pleased to have a couple of personal repositories that are active and some still in development. Sometimes, I also contribute to open source projects whenever possible with the initiative and hope of keeping Open souce projects alive and well. :)"
       }
     ],
     "skills":[
@@ -99,27 +99,27 @@
         "level":"90%"
       },
       {
-        "name":"Spring Framework",
+        "name":"SpringBoot Framework",
         "level":"92%"
       },
       {
-        "name":"Android Development",
+        "name":"Vaadin Framework",
         "level":"76%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Relational Databases",
+        "level":"65%"
       },
       {
-        "name":"CSS",
+        "name":"ReactJS",
         "level":"45%"
       },
       {
-        "name":"C",
-        "level":"50%"
+        "name":"C++",
+        "level":"40%"
       },
       {
-        "name":"C++",
+        "name":"C",
         "level":"40%"
       }
     ]
