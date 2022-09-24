@@ -8,8 +8,7 @@ class Header extends Component {
 
     const project = this.props.data.project;
     const github = this.props.data.github;
-      /*const name = this.props.data.name;*/
-      const name = "Hi there :)";
+    const name = this.props.data.alias;
     const description = this.props.data.description;
 
     return (

@@ -1,7 +1,8 @@
 {
   "main": {
     "name": "Kelvin Njenga",
-    "description": "My name is Kelvin Njenga and I would like to thank you for visiting my digital resume :) . Allow me begin with a brief introduction, Currently I hold a title of Software developer, I use JAVA and the SpringBoot Framework to develop JAVA based back-end server applications. I invite you to take a look at some of my listed previous projects and used tech-stacks, Looking forward to getting connected and working together on some cool projects.",
+    "alias": "Hi there :)",
+    "description": "My name is Kelvin Njenga and I would like to thank you for visiting my digital resume :) . Allow me begin with a brief introduction, Currently I hold a title of Software developer, I use JAVA and the SpringBoot Framework to develop JAVA based back-end server applications. I invite you to take a look at some of my listed previous projects and used tech-stacks, Looking forward to getting connected and working together on some cool projects",
     "image": "kelvin3.jpg",
     "bio": "An Info worth mentioning is that for the most part of my Software development journey I have worked in the Financial Technology Industry. This also allowed me to be exposed in the EMV(EuroPay, MasterCard & VISA) payments Application development space. Primarily, EMV Level 3 device testing and compliance while using approved toolkits from VISA and MasterCard.",
     "contactmessage": "My phone and email address are always open for communication. I sincerely look foward to hearing from you soon.",
